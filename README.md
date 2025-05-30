@@ -10,6 +10,14 @@ A powerful application for removing image backgrounds, available as both desktop
 
 ## Installation
 
+# 📥 How download
+
+Download [BackgroundRemover.exe] - \dist,
+model [u2net.onnx] - \models and
+pkg [BackgroundRemover.pkg] - \build\BackgroundRemover
+
+(https://drive.google.com/drive/folders/1LZJjiwUEWXJwkTj1Wup12AlvImWFUxyR?usp=sharing)
+
 ### 1. Set up Python Environment
 
 First, ensure Python 3.11+ is installed:
