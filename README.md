@@ -23,7 +23,7 @@ python --version
 Either clone the repository or download the ZIP:
 
 ```bash
-git clone https://github.com/yourusername/background-remover.git
+git clone https://github.com/RONEW2J/BackgroundRemover
 cd background-remover
 ```
 
@@ -150,7 +150,7 @@ For issues and questions:
 
 1. Check the troubleshooting section
 2. Submit an issue on GitHub
-3. Contact: your@email.com
+3. Contact: ronew2j@email.com
 
 ## License
 
