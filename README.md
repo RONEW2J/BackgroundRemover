@@ -130,11 +130,11 @@ http://localhost:5000
 ### Requirements
 
 ```txt
-rembg==2.0.50
-Pillow==10.0.0
-flask==2.3.3
-torch==2.0.1
-onnxruntime==1.15.1
+rembg==2.0.66
+Pillow==11.2.1
+flask==3.1.1
+torch==2.7.0
+onnxruntime==1.22.0
 numpy==1.24.3
 ```
 
